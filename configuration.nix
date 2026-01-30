@@ -157,6 +157,8 @@
 		cava
 		quickshell
     rustup
+    cmatrix
+    mullvad-vpn
 
 		#celestia
 		swappy
