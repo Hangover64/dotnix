@@ -68,6 +68,7 @@
     layout = "de";
     variant = "";
   };
+  services.mullvad-vpn.enable = true;
 
 	services.pulseaudio.enable = false;
 	security.rtkit.enable = true;
