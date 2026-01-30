@@ -170,6 +170,7 @@
       foot
       hyprpicker
       python3
+      lunar-client
       ];
 
   fonts.fontconfig.enable = true;
