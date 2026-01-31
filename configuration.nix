@@ -160,6 +160,7 @@
     rustup
     cmatrix
     mullvad-vpn
+    prismlauncher
 
 		#celestia
 		swappy
