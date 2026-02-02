@@ -120,6 +120,7 @@
 	  playerctl
 	  piper
 	  libratbag
+      ani-cli
   ];
 
   fonts.fontconfig.enable = true;
