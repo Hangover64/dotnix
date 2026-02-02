@@ -1,2 +1,2 @@
 rebuild:
-	nixos-rebuild switch --flake /etc/nixos\#nixos
+	nixos-rebuild switch --flake ~/dotnix#nixos
