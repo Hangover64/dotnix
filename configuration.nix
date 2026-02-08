@@ -132,6 +132,8 @@
 		dbus
 		clang-tools
 		nftables
+    ruby
+
 		#Hyprland
 		xdg-desktop-portal-hyprland
 		hyprpaper
