@@ -171,6 +171,7 @@
       hyprpicker
       python3
       lunar-client
+      jetbrains.idea
       ];
 
   fonts.fontconfig.enable = true;
