@@ -171,7 +171,9 @@
       hyprpicker
       python3
       lunar-client
-      jetbrains.idea
+      jetbrains-idea
+      jetbrains.rust-rover
+      jetbrains.ruby-mine
       ];
 
   fonts.fontconfig.enable = true;
