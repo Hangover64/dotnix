@@ -171,7 +171,7 @@
       hyprpicker
       python3
       lunar-client
-      jetbrains-idea
+      jetbrains.idea-community
       jetbrains.rust-rover
       jetbrains.ruby-mine
       ];
