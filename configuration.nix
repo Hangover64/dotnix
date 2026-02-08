@@ -133,6 +133,8 @@
 		clang-tools
 		nftables
     ruby
+    jruby
+    ruby-lsp
 
 		#Hyprland
 		xdg-desktop-portal-hyprland
