@@ -174,7 +174,7 @@
       jetbrains.idea-ultimate
       jetbrains.rust-rover
       jetbrains.ruby-mine
-      jetbrains.web-storm
+      jetbrains.webstorm
       ];
 
   fonts.fontconfig.enable = true;
